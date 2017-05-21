@@ -295,7 +295,7 @@ function receivedMessage(event) {
     // the text we received.
     switch (messageText) {
       case 'help':
-        sendTextMessage(senderID, "助教安安\n 安安助教\n 87\n 當(ㄉㄤˋ)\n 助教救我\n 幹\n 邊緣\n 陪\n 無聊");
+        sendTextMessage(senderID, " 助教安安\n 安安助教\n 87\n 當(ㄉㄤˋ)\n 助教救我\n 幹\n 邊緣\n 陪\n 無聊");
         break;
       case '李昱勳':
         sendTextMessage(senderID, "我是個87");
